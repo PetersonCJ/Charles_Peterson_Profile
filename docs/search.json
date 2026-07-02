@@ -33,9 +33,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Charles Peterson Resume",
+    "title": "Charles Peterson",
     "section": "",
-    "text": "Business Analyst | Financial Operations | Data Analytics\n\n208-488-5351 | cjpete2003@gmail.com | LinkedIn | GitHub\n\n\n\nBusiness Analytics graduate with hands-on experience using SQL, Power BI, Microsoft Fabric, Excel, Python, and R to support reporting, dashboard development, data cleaning, and operational decision-making. Experienced in healthcare analytics, logistics, financial reporting, and process improvement.\n\n\n\n\n\nPower BI, DAX, SQL, Excel, Python, R Studio, Microsoft Fabric, Power Query, Dataflows, data modeling, reporting, KPI tracking, dashboard development.\n\n\n\nProcess improvement, financial reporting, healthcare operations, logistics support, data accuracy, documentation, customer service, regulatory compliance.\n\n\n\nForklift, reach truck, order picker, Moffett, tractor trailer, skid steer, CDL Class A.\n\n\n\n\nData Analyst Intern | Cascadia Healthcare 2026\nEagle, ID\n\nManaged data security and user access permissions within Microsoft Fabric and Power BI.\nSupported row-level security, workspace access, reporting permissions, and audit controls.\nConnected data from SharePoint Excel files, SQL databases, SFTP sources, and Lakehouse/Warehouse data sources.\nImproved Power BI refresh scheduling to support reliable reporting and reduce failed refreshes.\nWrote and optimized SQL queries for reporting, data pulling, and duration time load balancing.\nCreated SQL reports for license renewal and fine penalty reporting.\nFollowed HIPAA regulations while working with sensitive healthcare data.\n\nCDL Flat Bed Driver | Lowe’s Home Improvement 2025 - 2026\nIdaho Falls, ID\n\nManaged logistics operations for project sites and large equipment deliveries.\nMaintained accurate delivery records and followed DOT and OSHA safety requirements.\nSupported inventory flow, delivery coordination, and customer service.\nImproved delivery efficiency by planning routes and reducing delays.\n\nCertified Pharmacy Technician | Cache Valley Pharmacy 2024\nLogan, UT\n\nMaintained patient medical records while following healthcare regulations.\nSupported pharmacy operations through documentation accuracy and inventory tracking.\nAssisted with secure medication distribution and patient service workflows.\n\n\n\n\nBachelor of Science in Business Analytics | Brigham Young University - Idaho\n\n\n\nData Science Certificate\nBusiness Fundamentals Certificate\nClass A CDL\nCertified Pharmacy Technician, CPhT\n\n\n\n\n\n\nSupported healthcare reporting through Power BI dashboards, SQL queries, Microsoft Fabric workspaces, and access control processes.\nHelped improve report reliability through refresh scheduling, query improvements, and data source management.\n\n\n\n\n\nBuilt data cleaning, transformation, and visualization projects using R, tidyverse, ggplot2, Quarto, and GitHub Pages.\nCreated visual reports using real-world datasets involving finance, geography, operations, and text analysis.\n\n\n\n\n\nWrote SQL queries to pull, clean, join, and summarize business data.\nPracticed database design, joins, subqueries, transactions, and reporting logic."
+    "text": "Business Analyst | Financial Operations | Data Analytics"
   },
   {
     "objectID": "resume.html#currently",
@@ -47,9 +47,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Bachelor of Science in Business Analytics | Brigham Young University - Idaho"
+    "title": "Charles Peterson",
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Business Analytics | Brigham Young University - Idaho"
   },
   {
     "objectID": "resume.html#awards",
@@ -373,37 +373,37 @@
   {
     "objectID": "resume.html#summary",
     "href": "resume.html#summary",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Business Analytics graduate with hands-on experience using SQL, Power BI, Microsoft Fabric, Excel, Python, and R to support reporting, dashboard development, data cleaning, and operational decision-making. Experienced in healthcare analytics, logistics, financial reporting, and process improvement."
+    "title": "Charles Peterson",
+    "section": "Summary",
+    "text": "Summary\nBusiness Analytics graduate with hands-on experience using SQL, Power BI, Microsoft Fabric, Excel, Python, and R to support reporting, dashboard development, data cleaning, and operational decision-making. Experienced in healthcare analytics, logistics, financial reporting, and process improvement."
   },
   {
     "objectID": "resume.html#technical-skills",
     "href": "resume.html#technical-skills",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Power BI, DAX, SQL, Excel, Python, R Studio, Microsoft Fabric, Power Query, Dataflows, data modeling, reporting, KPI tracking, dashboard development.\n\n\n\nProcess improvement, financial reporting, healthcare operations, logistics support, data accuracy, documentation, customer service, regulatory compliance.\n\n\n\nForklift, reach truck, order picker, Moffett, tractor trailer, skid steer, CDL Class A."
+    "title": "Charles Peterson",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nData Analytics\nPower BI, DAX, SQL, Excel, Python, R Studio, Microsoft Fabric, Power Query, Dataflows, data modeling, reporting, KPI tracking, dashboard development.\n\n\nBusiness and Operations\nProcess improvement, financial reporting, healthcare operations, logistics support, data accuracy, documentation, customer service, regulatory compliance.\n\n\nAdditional Experience\nForklift, reach truck, order picker, Moffett, tractor trailer, skid steer, CDL Class A."
   },
   {
     "objectID": "resume.html#professional-experience",
     "href": "resume.html#professional-experience",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Data Analyst Intern | Cascadia Healthcare 2026\nEagle, ID\n\nManaged data security and user access permissions within Microsoft Fabric and Power BI.\nSupported row-level security, workspace access, reporting permissions, and audit controls.\nConnected data from SharePoint Excel files, SQL databases, SFTP sources, and Lakehouse/Warehouse data sources.\nImproved Power BI refresh scheduling to support reliable reporting and reduce failed refreshes.\nWrote and optimized SQL queries for reporting, data pulling, and duration time load balancing.\nCreated SQL reports for license renewal and fine penalty reporting.\nFollowed HIPAA regulations while working with sensitive healthcare data.\n\nCDL Flat Bed Driver | Lowe’s Home Improvement 2025 - 2026\nIdaho Falls, ID\n\nManaged logistics operations for project sites and large equipment deliveries.\nMaintained accurate delivery records and followed DOT and OSHA safety requirements.\nSupported inventory flow, delivery coordination, and customer service.\nImproved delivery efficiency by planning routes and reducing delays.\n\nCertified Pharmacy Technician | Cache Valley Pharmacy 2024\nLogan, UT\n\nMaintained patient medical records while following healthcare regulations.\nSupported pharmacy operations through documentation accuracy and inventory tracking.\nAssisted with secure medication distribution and patient service workflows."
+    "title": "Charles Peterson",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nData Analyst Intern | Cascadia Healthcare 2026\nEagle, ID\n\nManaged data security and user access permissions within Microsoft Fabric and Power BI.\nSupported row-level security, workspace access, reporting permissions, and audit controls.\nConnected data from SharePoint Excel files, SQL databases, SFTP sources, and Lakehouse/Warehouse data sources.\nImproved Power BI refresh scheduling to support reliable reporting and reduce failed refreshes.\nWrote and optimized SQL queries for reporting, data pulling, and duration time load balancing.\nCreated SQL reports for license renewal and fine penalty reporting.\nFollowed HIPAA regulations while working with sensitive healthcare data.\n\nCDL Flat Bed Driver | Lowe’s Home Improvement 2025 - 2026\nIdaho Falls, ID\n\nManaged logistics operations for project sites and large equipment deliveries.\nMaintained accurate delivery records and followed DOT and OSHA safety requirements.\nSupported inventory flow, delivery coordination, and customer service.\nImproved delivery efficiency by planning routes and reducing delays.\n\nCertified Pharmacy Technician | Cache Valley Pharmacy 2024\nLogan, UT\n\nMaintained patient medical records while following healthcare regulations.\nSupported pharmacy operations through documentation accuracy and inventory tracking.\nAssisted with secure medication distribution and patient service workflows."
   },
   {
     "objectID": "resume.html#certifications",
     "href": "resume.html#certifications",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Data Science Certificate\nBusiness Fundamentals Certificate\nClass A CDL\nCertified Pharmacy Technician, CPhT"
+    "title": "Charles Peterson",
+    "section": "Certifications",
+    "text": "Certifications\nData Science Certificate\nBusiness Fundamentals Certificate\nClass A CDL\nCertified Pharmacy Technician, CPhT"
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
-    "title": "Charles Peterson Resume",
-    "section": "",
-    "text": "Supported healthcare reporting through Power BI dashboards, SQL queries, Microsoft Fabric workspaces, and access control processes.\nHelped improve report reliability through refresh scheduling, query improvements, and data source management.\n\n\n\n\n\nBuilt data cleaning, transformation, and visualization projects using R, tidyverse, ggplot2, Quarto, and GitHub Pages.\nCreated visual reports using real-world datasets involving finance, geography, operations, and text analysis.\n\n\n\n\n\nWrote SQL queries to pull, clean, join, and summarize business data.\nPracticed database design, joins, subqueries, transactions, and reporting logic."
+    "title": "Charles Peterson",
+    "section": "Projects",
+    "text": "Projects\n\nPower BI and Microsoft Fabric Reporting\n\nSupported healthcare reporting through Power BI dashboards, SQL queries, Microsoft Fabric workspaces, and access control processes.\nHelped improve report reliability through refresh scheduling, query improvements, and data source management.\n\n\n\nData Cleaning and Visualization in R\n\nBuilt data cleaning, transformation, and visualization projects using R, tidyverse, ggplot2, Quarto, and GitHub Pages.\nCreated visual reports using real-world datasets involving finance, geography, operations, and text analysis.\n\n\n\nSQL Reporting and Data Management\n\nWrote SQL queries to pull, clean, join, and summarize business data.\nPracticed database design, joins, subqueries, transactions, and reporting logic."
   },
   {
     "objectID": "resume.html#career-interests",

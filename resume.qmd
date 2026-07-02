@@ -1,9 +1,7 @@
 ---
 layout: cv
-title: "Charles Peterson Resume"
+title: "Charles Peterson"
 ---
-
-# Charles Peterson
 
 Business Analyst | Financial Operations | Data Analytics
 
