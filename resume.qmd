@@ -1,89 +1,107 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Charles Peterson Resume"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Charles Peterson
+
+Business Analyst | Financial Operations | Data Analytics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+208-488-5351 |
+<a href="mailto:cjpete2003@gmail.com">cjpete2003@gmail.com</a>
+| <a href="https://www.linkedin.com/in/charles-peterson-cj12/">LinkedIn</a>
+| <a href="https://github.com/PetersonCJ">GitHub</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Business Analytics graduate with hands-on experience using SQL, Power BI, Microsoft Fabric, Excel, Python, and R to support reporting, dashboard development, data cleaning, and operational decision-making. Experienced in healthcare analytics, logistics, financial reporting, and process improvement.
 
 
-### Research interests
+## Technical Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Data Analytics
+
+Power BI, DAX, SQL, Excel, Python, R Studio, Microsoft Fabric, Power Query, Dataflows, data modeling, reporting, KPI tracking, dashboard development.
+
+### Business and Operations
+
+Process improvement, financial reporting, healthcare operations, logistics support, data accuracy, documentation, customer service, regulatory compliance.
+
+### Additional Experience
+
+Forklift, reach truck, order picker, Moffett, tractor trailer, skid steer, CDL Class A.
+
+
+## Professional Experience
+
+__Data Analyst Intern | Cascadia Healthcare__  `2026`
+
+Eagle, ID
+
+- Managed data security and user access permissions within Microsoft Fabric and Power BI.
+- Supported row-level security, workspace access, reporting permissions, and audit controls.
+- Connected data from SharePoint Excel files, SQL databases, SFTP sources, and Lakehouse/Warehouse data sources.
+- Improved Power BI refresh scheduling to support reliable reporting and reduce failed refreshes.
+- Wrote and optimized SQL queries for reporting, data pulling, and duration time load balancing.
+- Created SQL reports for license renewal and fine penalty reporting.
+- Followed HIPAA regulations while working with sensitive healthcare data.
+
+
+__CDL Flat Bed Driver | Lowe's Home Improvement__  `2025 - 2026`
+
+Idaho Falls, ID
+
+- Managed logistics operations for project sites and large equipment deliveries.
+- Maintained accurate delivery records and followed DOT and OSHA safety requirements.
+- Supported inventory flow, delivery coordination, and customer service.
+- Improved delivery efficiency by planning routes and reducing delays.
+
+
+__Certified Pharmacy Technician | Cache Valley Pharmacy__  `2024`
+
+Logan, UT
+
+- Maintained patient medical records while following healthcare regulations.
+- Supported pharmacy operations through documentation accuracy and inventory tracking.
+- Assisted with secure medication distribution and patient service workflows.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Bachelor of Science in Business Analytics__ | Brigham Young University - Idaho
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Certifications
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Data Science Certificate__
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Business Fundamentals Certificate__
 
 
+__Class A CDL__  
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+__Certified Pharmacy Technician, CPhT__
+
+
+## Projects
+
+### Power BI and Microsoft Fabric Reporting
+
+- Supported healthcare reporting through Power BI dashboards, SQL queries, Microsoft Fabric workspaces, and access control processes.
+- Helped improve report reliability through refresh scheduling, query improvements, and data source management.
+
+### Data Cleaning and Visualization in R
+
+- Built data cleaning, transformation, and visualization projects using R, tidyverse, ggplot2, Quarto, and GitHub Pages.
+- Created visual reports using real-world datasets involving finance, geography, operations, and text analysis.
+
+### SQL Reporting and Data Management
+
+- Wrote SQL queries to pull, clean, join, and summarize business data.
+- Practiced database design, joins, subqueries, transactions, and reporting logic.
